@@ -7,7 +7,7 @@ try:
         host = "localhost",
         port = "5432",
         user = "postgres",
-        password = "password",
+        password = "Gabylu2312",
         dbname = "Tarea1"
     )
     print("\n")
